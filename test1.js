@@ -1,4 +1,3 @@
-var students=[{"name":"Samvida", "regno":"17BCE1236"}, {"name":"Samyukta", "regno":"17EC1131"}];
 var data={"Machine Learning":[["mlt1", "mlt2"], ["l1", "l2"]], "Software Development":[["sdt1", "sdt2", "sdt3"], ["l2", "l3", "l4"]]};
 var teachers={"mlt1":"l1", "mlt2":"l2", "sdt1":"l2", "sdt2":"l3", "sdt3":"l4"};
 
